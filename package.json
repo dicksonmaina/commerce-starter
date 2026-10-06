@@ -9,7 +9,7 @@
     "agent": "node scripts/agent.cjs"
   },
   "dependencies": {
-    "better-sqlite3": "^11.0.0",
+    "better-sqlite3": "^13.0.3",
     "bullmq": "^6.0.5",
     "dotenv": "^16.4.0",
     "express": "^4.21.0",
